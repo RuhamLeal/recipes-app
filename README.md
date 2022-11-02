@@ -1,7 +1,6 @@
 # recipes-app
 
 A complete front-end application, using react, react-hooks, redux, bootstrap, Javascript, HTML and CSS
-Th
 
 
 # Table of contents
