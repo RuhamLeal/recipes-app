@@ -43,10 +43,10 @@ Project is mobile first, recommended dimensions are 360 x 629 to better experien
 
 ### Contributors
 
-[Ruham Leal](https://github.com/RuhamLeal)
-[Guilherme Garcia](https://github.com/garciaagui)
-[Isaque Almeida](https://github.com/IsaqueAlmeida)
-[Marco Túlio Vilaça Diniz](https://github.com/marcotuliovd)
+[Ruham Leal](https://github.com/RuhamLeal)    
+[Guilherme Garcia](https://github.com/garciaagui)    
+[Isaque Almeida](https://github.com/IsaqueAlmeida)    
+[Marco Túlio Vilaça Diniz](https://github.com/marcotuliovd)     
 
 ### Contact
 
