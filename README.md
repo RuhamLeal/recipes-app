@@ -1,10 +1,56 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# recipes-app
+
+A complete front-end application, using react, react-hooks, redux, bootstrap, Javascript, HTML and CSS
+Th
+
+
+# Table of contents
+
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [More Info](#more-info)
+- [Contact](#contact)
+
+## Getting Started
+
+
+
+### Prerequisites
+
+node 16 version
+
+### Installation
+
+```
+Clone the repo:   
+$ git clone git@github.com:RuhamLeal/ExpressJS-BookStore-API.git    
+
+Go to project folder:     
+$ cd ExpressJS-BookStore-API     
+
+Install dependencies:    
+$ npm install
+
+Run app:   
+$ npm start
+
+```
+
+### More Info
+
+This project was done as a group.   
+Project is mobile first, recommended dimensions are 360 x 629 to better experience.
+
+### Contributors
+
+[Ruham Leal](https://github.com/RuhamLeal)
+[Guilherme Garcia](https://github.com/garciaagui)
+[Isaque Almeida](https://github.com/IsaqueAlmeida)
+[Marco Túlio Vilaça Diniz](https://github.com/marcotuliovd)
+
+### Contact
+
+Ruham Leal    
+Email: ruhamxlpro@hotmail.com    
+Linkedin: https://www.linkedin.com/in/ruham-leal-dos-santos-sutil-38a837243/
