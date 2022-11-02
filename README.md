@@ -5,7 +5,7 @@ A complete front-end application, using react, react-hooks, redux, bootstrap, Ja
 
 # Table of contents
 
-- [Getting Started](#getting-started)
+- [Preview](#preview)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [More Info](#more-info)
