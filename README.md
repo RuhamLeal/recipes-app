@@ -23,10 +23,10 @@ node 16 version
 
 ```
 Clone the repo:   
-$ git clone git@github.com:RuhamLeal/ExpressJS-BookStore-API.git    
+$ git clone https://github.com/RuhamLeal/recipes-app.git   
 
 Go to project folder:     
-$ cd ExpressJS-BookStore-API     
+$ cd recipes-app     
 
 Install dependencies:    
 $ npm install
