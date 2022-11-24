@@ -1,6 +1,9 @@
 # recipes-app
 
-A complete front-end application, using react, react-hooks, redux, bootstrap, Javascript, HTML and CSS
+A complete front-end application, using react, react-hooks, redux, bootstrap, Javascript, HTML and CSS        
+
+
+The application is a mobile recipe site where you can save your ready-made recipes, favorite recipes, share links and search for recipes from drinks to food
 
 
 # Table of contents
