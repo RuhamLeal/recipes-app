@@ -42,7 +42,7 @@ $ npm start
 
 ### More Info
 
-This project was done as a group.   
+This project was done as a group in [Trybe](https://www.betrybe.com/) course.   
 Project is mobile first, recommended dimensions are 360 x 629 to better experience.
 
 ### Contributors
